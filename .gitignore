@@ -1,0 +1,6 @@
+*.pdf
+*.zip
+*.7z
+*.Rhistory
+.Rproj.user/
+tests/output/
